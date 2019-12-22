@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 0,
-  "globalversion3": 3,
+  "globalversion3": 4,
   "update": "Список изменений:\n\n- автообновление\n- лог чата (папка moonloader->config->AdminTools->logs)\n- bwarn, bjail, bban добавлены. Указывать ид надо"
 }
