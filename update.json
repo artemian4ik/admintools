@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 0,
-  "globalversion3": 5,
-  "update": "Список изменений:\n\n- фикс yakuza и rm\n- добавлена погода"
+  "globalversion3": 6,
+  "update": "Список изменений:\n\n- фикс бага с надписью\n- фикс бага с крашем после закрытие настроек"
 }
