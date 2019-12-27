@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 0,
-  "globalversion3": 8,
-  "update": "Список изменений:\n\n- fix crash\n- fix close window weather\n- add wallhack in setting"
+  "globalversion3": 9,
+  "update": "Список изменений:\n\n- fix crash\n- fix close window weather\n- add wallhack in setting\n- fix start wh"
 }
