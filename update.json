@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 0,
-  "globalversion3": 7,
-  "update": "Список изменений:\n\n- фикс бага с надписью\n- фикс бага с крашем после закрытие настроек\n- настроен чекер для администрации\n- добавлено автопополнение при входе голода"
+  "globalversion3": 8,
+  "update": "Список изменений:\n\n- fix crash\n- fix close window weather\n- add wallhack in setting"
 }
