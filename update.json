@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 0,
-  "globalversion3": 9,
-  "update": "Список изменений:\n\n- fix crash\n- fix close window weather\n- add wallhack in setting\n- fix start wh"
+  "globalversion3": 10,
+  "update": "Список изменений:\n\n- фикс тп на колесо\n- фикс краша\n- добавлен Connect Log (в настройках чекера включается)"
 }
