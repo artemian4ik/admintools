@@ -100,13 +100,13 @@ function main()
 	while true do
 		wait(0)
 		imgui_notf.ShowCursor = false
-		imgui_notf.SetMouseCursor(-1)
 		imgui_notf.Process = true
 	end
 end
 
 function imgui_notf.OnDrawFrame()
 	onRenderNotification()
+	imgui_notf.SetMouseCursor(-1)
 end
 
 function onRenderNotification()
